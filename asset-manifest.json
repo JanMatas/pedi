@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pedi/static/css/main.ab545f90.chunk.css",
-    "main.js": "/pedi/static/js/main.779a5af1.chunk.js",
-    "main.js.map": "/pedi/static/js/main.779a5af1.chunk.js.map",
+    "main.css": "/pedi/static/css/main.30603f2d.chunk.css",
+    "main.js": "/pedi/static/js/main.5b650420.chunk.js",
+    "main.js.map": "/pedi/static/js/main.5b650420.chunk.js.map",
     "runtime-main.js": "/pedi/static/js/runtime-main.84bfad1d.js",
     "runtime-main.js.map": "/pedi/static/js/runtime-main.84bfad1d.js.map",
-    "static/js/2.2a0407de.chunk.js": "/pedi/static/js/2.2a0407de.chunk.js",
-    "static/js/2.2a0407de.chunk.js.map": "/pedi/static/js/2.2a0407de.chunk.js.map",
+    "static/js/2.e84fe44b.chunk.js": "/pedi/static/js/2.e84fe44b.chunk.js",
+    "static/js/2.e84fe44b.chunk.js.map": "/pedi/static/js/2.e84fe44b.chunk.js.map",
     "index.html": "/pedi/index.html",
-    "precache-manifest.300430209f3e1b46489ca45cf74995d5.js": "/pedi/precache-manifest.300430209f3e1b46489ca45cf74995d5.js",
+    "precache-manifest.d29dc3322349da7a9224f9ca0028d317.js": "/pedi/precache-manifest.d29dc3322349da7a9224f9ca0028d317.js",
     "service-worker.js": "/pedi/service-worker.js",
-    "static/css/main.ab545f90.chunk.css.map": "/pedi/static/css/main.ab545f90.chunk.css.map",
-    "static/js/2.2a0407de.chunk.js.LICENSE": "/pedi/static/js/2.2a0407de.chunk.js.LICENSE"
+    "static/css/main.30603f2d.chunk.css.map": "/pedi/static/css/main.30603f2d.chunk.css.map",
+    "static/js/2.e84fe44b.chunk.js.LICENSE": "/pedi/static/js/2.e84fe44b.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.84bfad1d.js",
-    "static/js/2.2a0407de.chunk.js",
-    "static/css/main.ab545f90.chunk.css",
-    "static/js/main.779a5af1.chunk.js"
+    "static/js/2.e84fe44b.chunk.js",
+    "static/css/main.30603f2d.chunk.css",
+    "static/js/main.5b650420.chunk.js"
   ]
 }

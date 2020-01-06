@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pedi/static/css/main.ab545f90.chunk.css",
+    "main.js": "/pedi/static/js/main.4f895cc2.chunk.js",
+    "main.js.map": "/pedi/static/js/main.4f895cc2.chunk.js.map",
+    "runtime-main.js": "/pedi/static/js/runtime-main.84bfad1d.js",
+    "runtime-main.js.map": "/pedi/static/js/runtime-main.84bfad1d.js.map",
+    "static/js/2.661a371d.chunk.js": "/pedi/static/js/2.661a371d.chunk.js",
+    "static/js/2.661a371d.chunk.js.map": "/pedi/static/js/2.661a371d.chunk.js.map",
+    "index.html": "/pedi/index.html",
+    "precache-manifest.1b799a887046266346de5ed719dd5d49.js": "/pedi/precache-manifest.1b799a887046266346de5ed719dd5d49.js",
+    "service-worker.js": "/pedi/service-worker.js",
+    "static/css/main.ab545f90.chunk.css.map": "/pedi/static/css/main.ab545f90.chunk.css.map",
+    "static/js/2.661a371d.chunk.js.LICENSE": "/pedi/static/js/2.661a371d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84bfad1d.js",
+    "static/js/2.661a371d.chunk.js",
+    "static/css/main.ab545f90.chunk.css",
+    "static/js/main.4f895cc2.chunk.js"
+  ]
+}

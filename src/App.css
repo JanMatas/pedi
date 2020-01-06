@@ -78,5 +78,9 @@ button {
 }
 
 .Button-next {
-  background-color: grey; /* Green */
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+  font-size: 8px;
 }

@@ -14,8 +14,13 @@ function Answer(props) {
   } else {
     className = "Answer"
   }
+  const onClick = () => {
+    if (!marked) {
+      setTicked(!ticked)
+    }
+  }
   return (
-    <div className={className} onClick={() => setTicked(!ticked)}>
+    <div className={className} onClick={onClick}>
       <div className='Answer-checkbox'> {ticked && '✅'} </div>
       <div className='Answer-text'> {props.text} </div>
     </div>

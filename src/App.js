@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 import questions from './questions'
-import uuid from 'uuid'
 function Answer(props) {
   const [ticked, setTicked] = useState(false)
   let className
@@ -15,7 +14,7 @@ function Answer(props) {
     className = "Answer"
   }
   const onClick = () => {
-    if (!marked) {
+    if (!props.marked) {
       setTicked(!ticked)
     }
   }
@@ -45,7 +44,7 @@ function App() {
   const currentQuestion = questions[current]
   const answers = currentQuestion.ans.map((ans, i) => {
     return (
-      <Answer key={uuid()} marked={marked} correct={ans.valid} text={ans.ans} />
+      <Answer key={ans.ans} marked={marked} correct={ans.valid} text={ans.ans} />
     )
   })
   return (
